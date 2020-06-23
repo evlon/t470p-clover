@@ -5,8 +5,7 @@
       处理器名称                                        QuadCore Intel Core i5-7300HQ, 3100 MHz (31 x 100)
       主板名称                                          Lenovo ThinkPad T470p
       主板芯片组                                        Intel Sunrise Point QM175, Intel Kaby Lake-H
-      系统内存                                          [ TRIAL VERSION ]
-      DIMM1: Samsung M471A2K43BB1-CRC                   16 GB DDR4-2400 DDR4 SDRAM  (18-17-17-39 @ 1200 MHz)  (17-17-17-39 @ 1200 MHz)  (16-16-16-38 @ 1163 MHz)  (15-15-15-35 @ 1090 MHz)  (14-14-14-33 @ 1018 MHz)  (13-13-13-31 @ 945 MHz)  (12-12-12-28 @ 872 MHz)  (11-11-11-26 @ 800 MHz)  (10-10-10-24 @ 727 MHz)
+      系统内存                                          [ TRIAL VERSION ]      
       BIOS 类型                                         Phoenix (04/23/2020)
 
     显示设备:
@@ -20,7 +19,16 @@
       音频适配器                                        Intel Kaby Lake HDMI @ Intel Sunrise Point PCH - High Definition Audio Controller [D1]
       音频适配器                                        Realtek ALC298 @ Intel Sunrise Point PCH - High Definition Audio Controller [D1]
 
-     
+    设备属性:
+      描述                                              英特尔(R) 无线 Bluetooth(R)
+      驱动程序日期                                      2019/12/30
+      驱动程序版本                                      21.70.0.3
+      驱动程序提供商                                    Intel Corporation
+      INF 文件                                          oem8.inf
+      INF Section                                       ibtusb
+      硬件 ID                                           USB\VID_8087&PID_0A2B&REV_0010
+      位置信息                                          Port_#0007.Hub_#0001
+
 
 ```
 2. 外购USB网卡
@@ -45,7 +53,9 @@ usbinjectall 0.7.3
 5. 通过添加启动参数 -disablegfxfirmware  解决启动 begin gfx firmware load process  重试50次问题
 
 ## 已知问题
-蓝牙能开启，搜索不到设备。
+~~蓝牙能开启，搜索不到设备。~~
+
+
 
 ## 感谢
 1. 基础EFI, HDMI 外接显示器正常
@@ -79,6 +89,10 @@ https://bbs.pcbeta.com
 ```
 https://www.jianshu.com/p/2ad57fca5969?tdsourcetag=s_pctim_aiomsg
 docs/MAC 10.14 安装教程4-制作安装EFI文件 - 简书.pdf
+```
+8. 修复蓝牙
+```
+https://github.com/zxystd/IntelBluetoothFirmware
 ```
 
 
