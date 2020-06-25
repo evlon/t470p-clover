@@ -104,3 +104,6 @@ https://github.com/zxystd/IntelBluetoothFirmware
 ## 困难
 想使用OpenCore，但是总是不成功， 希望给我一个基础的。
 
+## 更新
+更新最新版驱动
+更新驱动后，去掉 EFI/CLOVER/ACPI/patched/SSDT-Keyboard.aml  小红帽移动太慢的问题解决
