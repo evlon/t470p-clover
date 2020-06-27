@@ -73,7 +73,7 @@
 					<key>Comment</key>
 					<string>change SAT1 to SATA</string>
 					<key>Disabled</key>
-					<true/>
+					<false/>
 					<key>Find</key>
 					<data>U0FUMQ==</data>
 					<key>Replace</key>
@@ -194,7 +194,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string> -cdfon lilucpu=9 keepsyms=1 debug=0x100 kext-dev-mode=1 -disablegfxfirmware</string>
+		<string> -cdfon lilucpu=9 keepsyms=1 debug=0x100 kext-dev-mode=1 -disablegfxfirmware -v</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>NeverHibernate</key>
@@ -209,7 +209,7 @@
 		<key>Audio</key>
 		<dict>
 			<key>Inject</key>
-			<integer>0</integer>
+			<integer>47</integer>
 			<key>ResetHDA</key>
 			<true/>
 		</dict>
@@ -451,7 +451,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C02751404GUDJWKCB</string>
+		<string>C02841404CDHWVPCB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -481,9 +481,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro14,1</string>
 		<key>SerialNumber</key>
-		<string>C02VVPOQHTD5</string>
+		<string>C02XJ0NNHV29</string>
 		<key>SmUUID</key>
-		<string>6EF03F78-C897-4350-B94E-C6BB027CE93F</string>
+		<string>09915EA2-5B49-41DC-A2C9-86301D6CE818</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>

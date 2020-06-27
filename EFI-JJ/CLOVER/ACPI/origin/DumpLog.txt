@@ -1,0 +1,164 @@
+10:015  3:593  Found BIOS RSDP at F0140
+10:015  0:000  Printing ACPI tables from RSDP F0140 ...
+10:015  0:000   F0140: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+10:015  0:000    (Xsdt: AFFC3188, Rsdt: AFFC30C4)
+10:015  0:000    AFFC3188: 'XSDT', 'TP-R0F', Rev: 1, Len: 228
+10:015  0:000    AFFC30C4: 'RSDT', 'TP-R0F', Rev: 1, Len: 132
+10:015  0:000    Tables in Xsdt: 24
+10:015  0:000    0. AFFF7000: 'FACP', 'TP-R0F', Rev: 5, Len: 244
+10:015  0:000        (Dsdt: AFFD3000, Facs: AFF47000, XDsdt: AFFD3000, XFacs: 0)
+10:015  0:000        AFFD3000: 'DSDT', 'SKL', Rev: 2, Len: 129802
+10:017  0:002        AFF47000: 'FACS', Ver: 2, Len: 64
+10:017  0:000    1. AFF5C000: 'UEFI', 'TP-R0F', Rev: 1, Len: 66
+10:017  0:000    2. AFFF9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12870
+10:017  0:000    3. AFFF8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+10:017  0:000    4. AFFF6000: 'HPET', 'TP-R0F', Rev: 1, Len: 56
+10:017  0:000    5. AFFF5000: 'APIC', 'TP-R0F', Rev: 3, Len: 188
+10:017  0:000    6. AFFF4000: 'MCFG', 'TP-R0F', Rev: 1, Len: 60
+10:017  0:000    7. AFFF3000: 'ECDT', 'TP-R0F', Rev: 1, Len: 83
+10:017  0:000    8. AFFD1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6625
+10:017  0:000    9. AFFD0000: 'BOOT', 'TP-R0F', Rev: 1, Len: 40
+10:017  0:000    10. AFFCF000: 'BATB', 'TP-R0F', Rev: 2, Len: 74
+10:017  0:000    11. AFFCE000: 'SLIC', 'TP-R0F', Rev: 1, Len: 374
+10:017  0:000    12. AFFCC000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+10:017  0:000    13. AFFCB000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+10:017  0:000    14. AFFCA000: 'WSMT', 'TP-R0F', Rev: 1, Len: 40
+10:017  0:000    15. AFFC9000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+10:017  0:000    16. AFFC8000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+10:017  0:000    17. AFFC7000: 'DBGP', 'TP-R0F', Rev: 1, Len: 52
+10:017  0:000    18. AFFC6000: 'DBG2', 'TP-R0F', Rev: 0, Len: 84
+10:017  0:000    19. AFFC5000: 'MSDM', 'TP-R0F', Rev: 3, Len: 85
+10:017  0:000    20. AFFC4000: 'DMAR', 'TP-R0F', Rev: 1, Len: 168
+10:017  0:000    21. AFFFD000: 'ASF!', 'TP-R0F', Rev: 32, Len: 160
+10:017  0:000    22. AFFC2000: 'FPDT', 'TP-R0F', Rev: 1, Len: 68
+10:017  0:000    23. AFF45000: 'UEFI', 'TP-R0F', Rev: 1, Len: 318
+10:017  0:000    Tables in Rsdt: 24
+10:017  0:000    0. AFFF7000: 'FACP', 'TP-R0F', Rev: 5, Len: 244
+10:017  0:000        (Dsdt: AFFD3000, Facs: AFF47000, XDsdt: AFFD3000, XFacs: 0)
+10:017  0:000        AFFD3000: 'DSDT', 'SKL', Rev: 2, Len: 129802
+10:019  0:002        AFF47000: 'FACS', Ver: 2, Len: 64
+10:019  0:000    1. AFF5C000: 'UEFI', 'TP-R0F', Rev: 1, Len: 66
+10:019  0:000    2. AFFF9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12870
+10:019  0:000    3. AFFF8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+10:019  0:000    4. AFFF6000: 'HPET', 'TP-R0F', Rev: 1, Len: 56
+10:019  0:000    5. AFFF5000: 'APIC', 'TP-R0F', Rev: 3, Len: 188
+10:019  0:000    6. AFFF4000: 'MCFG', 'TP-R0F', Rev: 1, Len: 60
+10:019  0:000    7. AFFF3000: 'ECDT', 'TP-R0F', Rev: 1, Len: 83
+10:019  0:000    8. AFFD1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6625
+10:019  0:000    9. AFFD0000: 'BOOT', 'TP-R0F', Rev: 1, Len: 40
+10:019  0:000    10. AFFCF000: 'BATB', 'TP-R0F', Rev: 2, Len: 74
+10:019  0:000    11. AFFCE000: 'SLIC', 'TP-R0F', Rev: 1, Len: 374
+10:019  0:000    12. AFFCC000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+10:019  0:000    13. AFFCB000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+10:019  0:000    14. AFFCA000: 'WSMT', 'TP-R0F', Rev: 1, Len: 40
+10:019  0:000    15. AFFC9000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+10:019  0:000    16. AFFC8000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+10:019  0:000    17. AFFC7000: 'DBGP', 'TP-R0F', Rev: 1, Len: 52
+10:019  0:000    18. AFFC6000: 'DBG2', 'TP-R0F', Rev: 0, Len: 84
+10:019  0:000    19. AFFC5000: 'MSDM', 'TP-R0F', Rev: 3, Len: 85
+10:019  0:000    20. AFFC4000: 'DMAR', 'TP-R0F', Rev: 1, Len: 168
+10:019  0:000    21. AFFFD000: 'ASF!', 'TP-R0F', Rev: 32, Len: 160
+10:019  0:000    22. AFFC2000: 'FPDT', 'TP-R0F', Rev: 1, Len: 68
+10:019  0:000    23. AFF45000: 'UEFI', 'TP-R0F', Rev: 1, Len: 318
+10:019  0:000  Found UEFI Acpi 2.0 RSDP at AFFFE014
+10:019  0:000  Saving ACPI tables from RSDP AFFFE014 to EFI\CLOVER\ACPI\origin ...
+10:019  0:000   AFFFE014: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+10:036  0:016    (Xsdt: AFFC3188, Rsdt: AFFC30C4)
+10:036  0:000    AFFC3188: 'XSDT', 'TP-R0F', Rev: 1, Len: 228 -> XSDT.aml
+10:043  0:007    AFFC30C4: 'RSDT', 'TP-R0F', Rev: 1, Len: 132 -> RSDT.aml
+10:051  0:007    Tables in Xsdt: 24
+10:051  0:000    0. AFFF7000: 'FACP', 'TP-R0F', Rev: 5, Len: 244 -> FACP.aml
+10:059  0:008        (Dsdt: AFFD3000, Facs: AFF47000, XDsdt: AFFD3000, XFacs: 0)
+10:059  0:000        AFFD3000: 'DSDT', 'SKL', Rev: 2, Len: 129802 -> DSDT.aml
+10:072  0:012        AFF47000: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+10:081  0:008    1. AFF5C000: 'UEFI', 'TP-R0F', Rev: 1, Len: 66 -> UEFI.aml
+10:089  0:008    2. AFFF9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12870 -> SSDT-0-SaSsdt.aml
+10:097  0:008    3. AFFF8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462 -> SSDT-1-PerfTune.aml
+10:103  0:005    4. AFFF6000: 'HPET', 'TP-R0F', Rev: 1, Len: 56 -> HPET.aml
+10:111  0:008    5. AFFF5000: 'APIC', 'TP-R0F', Rev: 3, Len: 188 -> APIC.aml
+10:119  0:008    6. AFFF4000: 'MCFG', 'TP-R0F', Rev: 1, Len: 60 -> MCFG.aml
+10:128  0:008    7. AFFF3000: 'ECDT', 'TP-R0F', Rev: 1, Len: 83 -> ECDT.aml
+10:136  0:008    8. AFFD1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6625 -> SSDT-2-ProjSsdt.aml
+10:142  0:005    9. AFFD0000: 'BOOT', 'TP-R0F', Rev: 1, Len: 40 -> BOOT.aml
+10:150  0:008    10. AFFCF000: 'BATB', 'TP-R0F', Rev: 2, Len: 74 -> BATB.aml
+10:158  0:008    11. AFFCE000: 'SLIC', 'TP-R0F', Rev: 1, Len: 374 -> SLIC.aml
+10:167  0:008    12. AFFCC000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062 -> SSDT-3-CpuSsdt.aml (Found hidden SSDT 7 pcs)
+10:173  0:006        * AFE99098: 'SSDT', 'Cpu0Ist', Rev: 2, Len: 1518  53 53 44 54 EE 05 00 00 02 B8 50 6D 52 65 66 00 Internal length = 1518 -> SSDT-x3_0-Cpu0Ist.aml
+10:178  0:005        * AF41E018: 'SSDT', 'ApIst', Rev: 2, Len: 3348  53 53 44 54 14 0D 00 00 02 2A 50 6D 52 65 66 00 Internal length = 3348 -> SSDT-x3_1-ApIst.aml
+10:184  0:005        * AFE50698: 'SSDT', 'Cpu0Cst', Rev: 2, Len: 1023  53 53 44 54 FF 03 00 00 02 11 50 6D 52 65 66 00 Internal length = 1023 -> SSDT-x3_2-Cpu0Cst.aml
+10:189  0:005        * AFE99B18: 'SSDT', 'ApCst', Rev: 2, Len: 778  53 53 44 54 0A 03 00 00 02 93 50 6D 52 65 66 00 Internal length = 778 -> SSDT-x3_3-ApCst.aml
+10:194  0:005        * AFE99718: 'SSDT', 'Cpu0Hwp', Rev: 2, Len: 186  53 53 44 54 BA 00 00 00 02 7D 50 6D 52 65 66 00 Internal length = 186 -> SSDT-x3_4-Cpu0Hwp.aml
+10:200  0:005        * AF41D018: 'SSDT', 'ApHwp', Rev: 2, Len: 791  53 53 44 54 17 03 00 00 02 80 50 6D 52 65 66 00 Internal length = 791 -> SSDT-x3_5-ApHwp.aml
+10:205  0:005        * AFE50018: 'SSDT', 'HwpLvt', Rev: 2, Len: 1576  53 53 44 54 28 06 00 00 02 85 50 6D 52 65 66 00 Internal length = 1576 -> SSDT-x3_6-HwpLvt.aml
+10:210  0:005  
+10:210  0:000    13. AFFCB000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389 -> SSDT-4-CtdpB.aml
+10:216  0:005    14. AFFCA000: 'WSMT', 'TP-R0F', Rev: 1, Len: 40 -> WSMT.aml
+10:224  0:007    15. AFFC9000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321 -> SSDT-5-HdaDsp.aml
+10:229  0:005    16. AFFC8000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221 -> SSDT-6-TbtTypeC.aml
+10:235  0:005    17. AFFC7000: 'DBGP', 'TP-R0F', Rev: 1, Len: 52 -> DBGP.aml
+10:243  0:008    18. AFFC6000: 'DBG2', 'TP-R0F', Rev: 0, Len: 84 -> DBG2.aml
+10:251  0:007    19. AFFC5000: 'MSDM', 'TP-R0F', Rev: 3, Len: 85 -> MSDM.aml
+10:259  0:008    20. AFFC4000: 'DMAR', 'TP-R0F', Rev: 1, Len: 168 -> DMAR.aml
+10:265  0:006    21. AFFFD000: 'ASF!', 'TP-R0F', Rev: 32, Len: 160 -> ASF!.aml
+10:274  0:008    22. AFFC2000: 'FPDT', 'TP-R0F', Rev: 1, Len: 68 -> FPDT.aml
+10:282  0:008    23. AFF45000: 'UEFI', 'TP-R0F', Rev: 1, Len: 318 -> UEFI.aml
+10:290  0:008    Tables in Rsdt: 24
+10:290  0:000    0. AFFF7000: 'FACP', 'TP-R0F', Rev: 5, Len: 244
+10:290  0:000        (Dsdt: AFFD3000, Facs: AFF47000, XDsdt: AFFD3000, XFacs: 0)
+10:290  0:000        AFFD3000: 'DSDT', 'SKL', Rev: 2, Len: 129802
+10:292  0:002        AFF47000: 'FACS', Ver: 2, Len: 64
+10:292  0:000    1. AFF5C000: 'UEFI', 'TP-R0F', Rev: 1, Len: 66
+10:292  0:000    2. AFFF9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12870
+10:292  0:000    3. AFFF8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+10:292  0:000    4. AFFF6000: 'HPET', 'TP-R0F', Rev: 1, Len: 56
+10:292  0:000    5. AFFF5000: 'APIC', 'TP-R0F', Rev: 3, Len: 188
+10:292  0:000    6. AFFF4000: 'MCFG', 'TP-R0F', Rev: 1, Len: 60
+10:292  0:000    7. AFFF3000: 'ECDT', 'TP-R0F', Rev: 1, Len: 83
+10:292  0:000    8. AFFD1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6625
+10:292  0:000    9. AFFD0000: 'BOOT', 'TP-R0F', Rev: 1, Len: 40
+10:292  0:000    10. AFFCF000: 'BATB', 'TP-R0F', Rev: 2, Len: 74
+10:292  0:000    11. AFFCE000: 'SLIC', 'TP-R0F', Rev: 1, Len: 374
+10:292  0:000    12. AFFCC000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+10:292  0:000    13. AFFCB000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+10:292  0:000    14. AFFCA000: 'WSMT', 'TP-R0F', Rev: 1, Len: 40
+10:292  0:000    15. AFFC9000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+10:292  0:000    16. AFFC8000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+10:292  0:000    17. AFFC7000: 'DBGP', 'TP-R0F', Rev: 1, Len: 52
+10:292  0:000    18. AFFC6000: 'DBG2', 'TP-R0F', Rev: 0, Len: 84
+10:292  0:000    19. AFFC5000: 'MSDM', 'TP-R0F', Rev: 3, Len: 85
+10:292  0:000    20. AFFC4000: 'DMAR', 'TP-R0F', Rev: 1, Len: 168
+10:292  0:000    21. AFFFD000: 'ASF!', 'TP-R0F', Rev: 32, Len: 160
+10:292  0:000    22. AFFC2000: 'FPDT', 'TP-R0F', Rev: 1, Len: 68
+10:292  0:000    23. AFF45000: 'UEFI', 'TP-R0F', Rev: 1, Len: 318
+10:292  0:000  Found UEFI Acpi 1.0 RSDP at AFFFE000
+10:292  0:000  Printing ACPI tables from RSDP AFFFE000 ...
+10:292  0:000   AFFFE000: 'RSD PTR ', Rev: 0 (Acpi 1.0), Len: 20
+10:292  0:000    (Rsdt: AFFC3000)
+10:292  0:000    AFFC3000: 'RSDT', 'TP-R0F', Rev: 1, Len: 128
+10:292  0:000    Tables in Rsdt: 23
+10:292  0:000    0. AFFF7000: 'FACP', 'TP-R0F', Rev: 5, Len: 244
+10:292  0:000        (Dsdt: AFFD3000, Facs: AFF47000, XDsdt: AFFD3000, XFacs: 0)
+10:292  0:000        AFFD3000: 'DSDT', 'SKL', Rev: 2, Len: 129802
+10:295  0:002        AFF47000: 'FACS', Ver: 2, Len: 64
+10:295  0:000    1. AFF5C000: 'UEFI', 'TP-R0F', Rev: 1, Len: 66
+10:295  0:000    2. AFFF9000: 'SSDT', 'SaSsdt', Rev: 2, Len: 12870
+10:295  0:000    3. AFFF8000: 'SSDT', 'PerfTune', Rev: 2, Len: 1462
+10:295  0:000    4. AFFF6000: 'HPET', 'TP-R0F', Rev: 1, Len: 56
+10:295  0:000    5. AFFF5000: 'APIC', 'TP-R0F', Rev: 3, Len: 188
+10:295  0:000    6. AFFF4000: 'MCFG', 'TP-R0F', Rev: 1, Len: 60
+10:295  0:000    7. AFFF3000: 'ECDT', 'TP-R0F', Rev: 1, Len: 83
+10:295  0:000    8. AFFD1000: 'SSDT', 'ProjSsdt', Rev: 2, Len: 6625
+10:295  0:000    9. AFFD0000: 'BOOT', 'TP-R0F', Rev: 1, Len: 40
+10:295  0:000    10. AFFCF000: 'BATB', 'TP-R0F', Rev: 2, Len: 74
+10:295  0:000    11. AFFCC000: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6062
+10:295  0:000    12. AFFCB000: 'SSDT', 'CtdpB', Rev: 2, Len: 1389
+10:295  0:000    13. AFFCA000: 'WSMT', 'TP-R0F', Rev: 1, Len: 40
+10:295  0:000    14. AFFC9000: 'SSDT', 'HdaDsp', Rev: 2, Len: 321
+10:295  0:000    15. AFFC8000: 'SSDT', 'TbtTypeC', Rev: 2, Len: 1221
+10:295  0:000    16. AFFC7000: 'DBGP', 'TP-R0F', Rev: 1, Len: 52
+10:295  0:000    17. AFFC6000: 'DBG2', 'TP-R0F', Rev: 0, Len: 84
+10:295  0:000    18. AFFC5000: 'MSDM', 'TP-R0F', Rev: 3, Len: 85
+10:295  0:000    19. AFFC4000: 'DMAR', 'TP-R0F', Rev: 1, Len: 168
+10:295  0:000    20. AFFFD000: 'ASF!', 'TP-R0F', Rev: 32, Len: 160
+10:295  0:000    21. AFFC2000: 'FPDT', 'TP-R0F', Rev: 1, Len: 68
+10:295  0:000    22. AFF45000: 'UEFI', 'TP-R0F', Rev: 1, Len: 318
